@@ -1,0 +1,8 @@
+venv/
+data/
+models/
+outputs/
+build/
+third_party/
+__pycache__/
+*.mp4
